@@ -150,14 +150,14 @@ print()
 
 print("Validation status:")
 if comparison['synthetic_features']['spectral_centroid'] > 500:
-    print("  ✅ High spectral centroid (cavitation signature)")
+    print("  High spectral centroid (cavitation signature)")
 else:
-    print("  ⚠️  Low spectral centroid (check cavitation model)")
+    print("  Low spectral centroid (check cavitation model)")
 
 if comparison['synthetic_features']['num_tonal_components'] > 0:
-    print("  ✅ Tonal components detected (propeller signature)")
+    print("  Tonal components detected (propeller signature)")
 else:
-    print("  ⚠️  No tonal components (check machinery model)")
+    print("  No tonal components (check machinery model)")
 
 print()
 
