@@ -1,0 +1,28 @@
+================================================================================
+Synthetic vs Real Audio Comparison Report
+================================================================================
+
+1. High-Speed Vessel
+------------------------------------------------------------
+  spectral_centroid:
+    Synthetic: 947.73
+    Real:      74.15
+    Rel Error: 1178.19%
+  spectral_spread:
+    Synthetic: 605.90
+    Real:      132.06
+    Rel Error: 358.82%
+  spectral_rolloff:
+    Synthetic: 2055.33
+    Real:      178.00
+    Rel Error: 1054.68%
+  low_high_ratio:
+    Synthetic: 0.41
+    Real:      328.35
+    Rel Error: 99.88%
+  num_tonal_components:
+    Synthetic: 289.00
+    Real:      7.00
+    Rel Error: 4028.57%
+
+================================================================================
