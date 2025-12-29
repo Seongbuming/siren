@@ -10,3 +10,6 @@ Scenario Comparison:
 
 Power Spectrum Comparison:
 ![Power Spectrum Comparison](./results/power_spectrum_comparison.png)
+
+Validation:
+![Validation](./results/validation/synthetic_vs_real_comparison.png)
