@@ -1,0 +1,100 @@
+================================================================================
+Synthetic vs Real Audio Comparison Report
+================================================================================
+
+1. Cargo Sample 1
+------------------------------------------------------------
+  spectral_centroid:
+    Synthetic: 974.32
+    Real:      816.74
+    Rel Error: 19.29%
+  spectral_spread:
+    Synthetic: 604.57
+    Real:      1186.71
+    Rel Error: 49.05%
+  spectral_rolloff:
+    Synthetic: 2059.67
+    Real:      3415.33
+    Rel Error: 39.69%
+  num_tonal_components:
+    Synthetic: 307.00
+    Real:      112.00
+    Rel Error: 174.11%
+
+2. Cargo Sample 2
+------------------------------------------------------------
+  spectral_centroid:
+    Synthetic: 954.56
+    Real:      301.45
+    Rel Error: 216.66%
+  spectral_spread:
+    Synthetic: 602.18
+    Real:      701.22
+    Rel Error: 14.12%
+  spectral_rolloff:
+    Synthetic: 2035.00
+    Real:      1263.00
+    Rel Error: 61.12%
+  num_tonal_components:
+    Synthetic: 297.00
+    Real:      86.00
+    Rel Error: 245.35%
+
+3. Cargo Sample 3
+------------------------------------------------------------
+  spectral_centroid:
+    Synthetic: 944.97
+    Real:      38.24
+    Rel Error: 2370.91%
+  spectral_spread:
+    Synthetic: 606.58
+    Real:      160.94
+    Rel Error: 276.90%
+  spectral_rolloff:
+    Synthetic: 2037.67
+    Real:      82.00
+    Rel Error: 2384.96%
+  num_tonal_components:
+    Synthetic: 299.00
+    Real:      26.00
+    Rel Error: 1050.00%
+
+4. Cargo Sample 4
+------------------------------------------------------------
+  spectral_centroid:
+    Synthetic: 962.43
+    Real:      38.06
+    Rel Error: 2429.00%
+  spectral_spread:
+    Synthetic: 599.62
+    Real:      216.65
+    Rel Error: 176.77%
+  spectral_rolloff:
+    Synthetic: 2040.67
+    Real:      158.00
+    Rel Error: 1191.56%
+  num_tonal_components:
+    Synthetic: 303.00
+    Real:      30.00
+    Rel Error: 910.00%
+
+5. Cargo Sample 5
+------------------------------------------------------------
+  spectral_centroid:
+    Synthetic: 944.89
+    Real:      368.61
+    Rel Error: 156.34%
+  spectral_spread:
+    Synthetic: 604.12
+    Real:      652.50
+    Rel Error: 7.41%
+  spectral_rolloff:
+    Synthetic: 2030.33
+    Real:      1263.33
+    Rel Error: 60.71%
+  num_tonal_components:
+    Synthetic: 292.00
+    Real:      88.00
+    Rel Error: 231.82%
+
+================================================================================
